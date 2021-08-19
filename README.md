@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hi 👋, I'm Nethum Lamahewage
+
+## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📫 Find me on
+
+[![Medium Badge](https://img.shields.io/badge/-@nethumlamahewage-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nethumlamahewage/)](https://medium.com/@nethumlamahewage)
+
 
 <!--
 **NethumL/NethumL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
