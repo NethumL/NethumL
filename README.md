@@ -1,27 +1,38 @@
-# Hi 👋, I'm Nethum Lamahewage
+<h1 align="center">
+    Hi 👋, I'm Nethum Lamahewage
+</h1>
 
-## ⚡ Technologies
+<p align="center">
+    <a href="https://www.linkedin.com/in/nethumlamahewage">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@nethumlamahewage">
+        <img src="https://img.shields.io/badge/-@nethumlamahewage-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@nethumlamahewage/" />
+    </a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<h2 align="center">
+    ⚡ Technologies
+</h2>
 
-## 📫 Find me on
-
-[![Medium Badge](https://img.shields.io/badge/-@nethumlamahewage-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nethumlamahewage/)](https://medium.com/@nethumlamahewage)
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
+    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00" />
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-E44C30?style=flat-squar&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+</p>
 
 
 <!--
