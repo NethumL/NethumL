@@ -16,23 +16,65 @@
 </h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
+    <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=blue" />
     <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00" />
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript" />
     <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/git-E44C30?style=flat-squar&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
+
+
+<details>
+<summary>📃 Résumé</summary>
+
+## Projects
+
+<img align="right" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-Python-FFD43B?logo=Python&logoColor=blue" />
+
+- 👨‍💻 Patient Management System\
+📅 2020-present
+
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+
+- 👨‍💻 Project Management System\
+📅 2021\
+📍 Semester 3 group project
+
+<img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
+
+- 👨‍💻 FileReplica\
+📅 2021
+
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">
+<img align="right" src="https://img.shields.io/badge/-JavaScript-323330?logo=javascript" />
+
+- 👨‍💻 Student Request Management System\
+📅 2021\
+📍 Semester 2 group project
+
+<img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-Python-FFD43B?logo=Python&logoColor=blue" />
+
+- 👨‍💻 [PyQt5 Spellcheck QTextEdit](https://github.com/NethumL/pyqt-spellcheck)\
+📅 2020
+
+</details>
 
 
 <!--
