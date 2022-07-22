@@ -48,25 +48,25 @@
 📅 2020-present
 
 <img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Symfony-000000?logo=Symfony&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 
-- 👨‍💻 Project Management System\
-📅 2021\
-📍 Semester 3 group project
+- 👨‍💻 Bank Transaction and Loan Processing System\
+📅 2022\
+📍 Semester 4 Database Systems group project
+
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+
+- 👨‍💻 Airport Management System\
+📅 2022\
+📍 Semester 4 Software Engineering group project
 
 <img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
 
 - 👨‍💻 FileReplica\
 📅 2021
-
-<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">
-<img align="right" src="https://img.shields.io/badge/-JavaScript-323330?logo=javascript" />
-
-- 👨‍💻 Student Request Management System\
-📅 2021\
-📍 Semester 2 group project
 
 <img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-Python-FFD43B?logo=Python&logoColor=blue" />
