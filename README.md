@@ -34,6 +34,10 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
 
+<div align="center" style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethuml&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nethuml&show_icons=true&theme=onedark" />
+</div>
 
 <details>
 <summary>📃 Résumé</summary>
