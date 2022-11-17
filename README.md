@@ -44,6 +44,14 @@
 
 ## Projects
 
+<img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+
+- 👨‍💻 [Constraint Based Roster Scheduler](https://github.com/NethumL/roster-scheduler)\
+📅 2022\
+📍 Semester 5 Software Engineering Project (group)
+
 <img align="right" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-Python-FFD43B?logo=Python&logoColor=blue" />
