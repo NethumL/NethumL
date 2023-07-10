@@ -36,7 +36,6 @@
 
 <div align="center" style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethuml&theme=onedark&hide=scss,twig" />
-    <img src="https://github-readme-stats.vercel.app/api?username=nethuml&show_icons=true&theme=onedark" />
 </div>
 
 <details>
